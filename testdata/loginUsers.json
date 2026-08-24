@@ -1,0 +1,24 @@
+{
+  "valid user": {
+    "username": "validauser",
+    "password": "validpassword"
+  },
+  "invalid user": {
+    "username": "invaliduser",
+    "password": "invalidpassword"
+  },
+  "users": [
+    { "id": 1, "username": "user9@example.com", "password": "Password123" },
+    { "id": 2, "username": "user7@example.com", "password": "Password123" },
+    { "id": 3, "username": "user8@example.com", "password": "Password123" },
+    { "id": 4, "username": "user4@example.com", "password": "Password123" },
+    { "id": 5, "username": "user10@example.com", "password": "Password123" }
+     ],
+       "SignupUsers": [
+    { "id": 1, "username": "user11@example.com", "password": "Password123" },
+    { "id": 2, "username": "user12@example.com", "password": "Password123" },
+    { "id": 3, "username": "user13@example.com", "password": "Password123" },
+    { "id": 4, "username": "user14@example.com", "password": "Password123" },
+    { "id": 5, "username": "user15@example.com", "password": "Password123" }
+     ]
+}

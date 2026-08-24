@@ -1,0 +1,8 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","6601","Verify signup functionality for user: user12@example.com","chromium","2026-08-19","passed","2026-08-19","","signUp.spec.ts","",""
+"","3198","Verify signup functionality for user: user15@example.com","chromium","2026-08-19","passed","2026-08-19","","signUp.spec.ts","",""
+"","8864","Verify signup functionality for user: user14@example.com","chromium","2026-08-19","passed","2026-08-19","","signUp.spec.ts","",""
+"","4821","Verify signup functionality for user: user13@example.com","chromium","2026-08-19","passed","2026-08-19","","signUp.spec.ts","",""
+"","30272","Verify that a user can log in with valid credentials","chromium","2026-08-19","broken","2026-08-19","","login_functionality.spec.ts","",""
+"","30239","Verify login with multiple users from JSON data","chromium","2026-08-19","broken","2026-08-19","","login_functionality.spec.ts","",""
+"","4630","Verify signup functionality for user: user11@example.com","chromium","2026-08-19","passed","2026-08-19","","signUp.spec.ts","",""
