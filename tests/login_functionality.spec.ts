@@ -19,6 +19,7 @@ test('Verify that a user can log in with valid credentials', async ({ page }) =>
 });
 
 
+
   
     test(`Verify login with multiple users from JSON data`, async ({ page }) => {
         for(const user of loginUsers.users){
@@ -36,3 +37,6 @@ if(loginResult.message === 'User does not exist.' || loginResult.message === 'In
         }
 })
   
+test('Verify invalid login attempts with incorrect credentials', async ({ page }) => {
+  console.log("Invalid login ");
+})
