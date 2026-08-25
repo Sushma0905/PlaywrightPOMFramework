@@ -37,11 +37,3 @@ if(loginResult.message === 'User does not exist.' || loginResult.message === 'In
         }
 })
   
-test('Verify invalid login attempts with incorrect credentials', async ({ page }) => {
-  console.log("Invalid login ");
-})
-
-test('Verify invalid login attempts with incorrect credentials in different browsers', async ({ page }) => {
-  console.log("Invalid login in different browsers");
-})
-
